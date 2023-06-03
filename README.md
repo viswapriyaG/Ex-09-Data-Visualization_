@@ -112,55 +112,6 @@ plt.show()
 ```
 # OUPUT
 
-Data preprocessing
-
-![op1](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/dafb33a0-0119-4c8b-9369-674d5f4711ac)
-![op2](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/442ac7f4-e880-4e8d-9c32-d364e62e6d6d)
- 
- 
-![op3](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/1541729e-1825-492e-9ac8-07d6f2279bc2)
-
-![op4](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/3d54e35d-3656-4e87-9941-8461bc7ac021)
-
-Highest Total Bill Amount by day
-
-![op5](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/d9c695a4-a87c-4793-a5c9-c48a51667bc9)
-
-Average Tip Amount given by smokers and non-smokers
-
-![op6](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/b49a2c22-ab0c-48f0-9401-69293947c98d)
-
-Tip Percentage by Dining Party Size
-
-![op7](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/d3f823a4-77c7-4288-81ec-3d4e79b9410a)
-
-Highest tips based on gender
-
-![op8](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/9b167390-5359-4c86-8fac-b40dc8e5d283)
-
-Total bill amount by day of the week
-
-![op9](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/16dbfefb-8f2a-4938-8028-729a6f7d2129)
-
-Distribution of Total Bill Amounts by Time of Day
-
-![op10](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/086eeaf5-d459-41a0-9120-94a6e163c185)
-
-Average Total Bill Amount by Dining Party Size
-
-![op11](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/2b5ef04b-d3f3-4829-bf7d-d4a435cd1c26)
-
-Tip Amount by Day of Week
-
-![op12](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/4e48d2dd-d4a2-4e84-809a-dd2d67ffc1a9)
-
-Tip Amount by Time of Day
-
-![op13](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/4a765bfe-8580-40f2-aa41-23f1d532b02c)
-
-Correlation between Tip Amount and Total Bill Amount
-
-![op14](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/c10ee0cc-5c39-4ee7-8c73-0a7539df2b6d)
 
 # RESULT
 
