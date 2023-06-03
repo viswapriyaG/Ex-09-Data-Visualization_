@@ -117,11 +117,8 @@ Data preprocessing
 ![op1](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/dafb33a0-0119-4c8b-9369-674d5f4711ac)
 ![op2](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/442ac7f4-e880-4e8d-9c32-d364e62e6d6d)
  
- Finding outliers
  
- ![op3](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/1541729e-1825-492e-9ac8-07d6f2279bc2)
-
-Removing outliers
+![op3](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/1541729e-1825-492e-9ac8-07d6f2279bc2)
 
 ![op4](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/3d54e35d-3656-4e87-9941-8461bc7ac021)
 
