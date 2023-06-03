@@ -2,6 +2,10 @@
 # AIM
 To Perform Data Visualization on a complex dataset and save the data to a file.
 
+# DATE:
+GITHUB LINK:
+COLAB LINK:
+
 # Explanation
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
@@ -19,6 +23,9 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
+DEVELOPED BY : VISWA PRIYA G
+REGISTER NUMBER: 212221220061
+
 DATA PREPROCESSING
 ```
 import pandas as pd
