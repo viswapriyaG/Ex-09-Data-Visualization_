@@ -111,6 +111,34 @@ plt.title("Correlation between Tip Amount and Total Bill Amount")
 plt.show()
 ```
 # OUPUT
+![1](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/8de365c6-08e9-4695-98c7-167151f37a3b)
+
+![2](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/ad1caf98-070f-46fe-a5f1-7bead2e8b3ff)
+
+![3](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/730c0554-eadc-4ef5-a1ac-f80fcace3a27)
+
+![4](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/0a830937-7895-4330-a4a6-d8dbe1c27d84)
+
+![5](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/eee7621d-bf2c-459c-a55f-8438dbc00138)
+
+![6](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/537a0c74-2ea2-4e04-8f7e-14db7fd02c69)
+
+![7](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/45ce75c4-fa81-4d49-af98-074560f95689)
+
+![8](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/500c10b3-3b2a-42f3-a73e-1b1ced94d1c3)
+
+![9](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/25ac68f5-0ab7-4ec8-9f7c-09c9a15ee7d1)
+
+![10](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/02035e35-fd87-43f4-a4e9-2f2ca2621ae6)
+
+
+![11](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/e4922a86-0852-45b9-8a1d-66e8213ffc1e)
+
+![12](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/4b0cb253-e71b-4a5e-b3f0-3f450277560b)
+
+![13](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/dcfb90f3-3906-4fc8-9507-6b0bf548c930)
+
+![14](https://github.com/viswapriyaG/Ex-09-Data-Visualization_/assets/131427787/79a2ea49-58cf-4a59-bfe0-3c302d1bc046)
 
 
 # RESULT
