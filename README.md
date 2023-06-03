@@ -1,4 +1,4 @@
-# EXP-9 DATA VISUALIZATION-
+# EX-9 DATA VISUALIZATION-
 # AIM
 To Perform Data Visualization on a complex dataset and save the data to a file.
 
